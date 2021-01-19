@@ -1,0 +1,14 @@
+.image-elastickstack.bg-1 {
+  background-image: url(../../images/elastico/1.jpg);
+}
+.image-elastickstack.bg-2 {
+  background-image: url(../images/stack/stack-2.jpg);
+}
+.image-elastickstack.bg-3 {
+  background-image: url(../images/stack/stack-3.jpg);
+}
+.image-elastickstack.bg-4 {
+  background-image: url(../images/stack/stack-4.jpg);
+}
+
+elasticstack{position:relative;margin:40px auto;padding:0;max-width:400px;width:100%;height:500px;list-style:none;-webkit-perspective:1000px;-webkit-perspective-origin:50% 150%;perspective:1000px;perspective-origin:50% 150%}.noo-our_story .no-js .elasticstack{max-width:1090px;width:100%;height:auto;text-align:center}.noo-our_story .elasticstack li{position:absolute;z-index:1;width:100%;height:500px;border-width:18px;border-style:solid;border-color:#fff;box-shadow:0 10px 7px -7px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.1);opacity:0;cursor:move;-webkit-transform:translate3d(0,0,-180px);transform:translate3d(0,0,-180px);-webkit-transform-style:preserve-3d;transform-style:preserve-3d}.noo-our_story .no-js .elasticstack li{position:relative;display:inline-block;opacity:1;margin:10px;cursor:default;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.noo-our_story .elasticstack li .image-elastickstack{width:100%;height:100%;background-position:center;background-repeat:no-repeat;background-size:cover}.noo-our_story .elasticstack li h5{margin:0 5px;color:#143f51;height:60px;text-align:right;font-size:1.4em;font-family:Sacramento,cursive;line-height:60px}.noo-blog-list li h3,.noo-our-story2 .story-bk h2{font-family:Lato,sans-serif}.noo-our_story .elasticstack li.animate{-webkit-transition:all .3s ease-out;transition:all .3s ease-out}.noo-our_story .elasticstack li.move-back{-webkit-transition-timing-function:cubic-bezier(.175,.885,.47,1);-webkit-transition-timing-function:cubic-bezier(.175,.885,.47,1.515);transition-timing-function:cubic-bezier(.175,.885,.47,1.515)}.noo-story2-translateY{-webkit-transform:translate(0,-95px);-ms-transform:translate(0,-95px);-o-transform:translate(0,-95px);transform:translate(0,-95px)}.wpb_single_image img{position:relative;z-index:1}.noo-our-story2{position:relative;padding-bottom:130px;text-align:center}.noo-our-story2 .story-bk{background-position:bottom;padding:130px 30px 150px}

@@ -1,0 +1,94 @@
+#columnaColor-3{
+    background: #2e373c;
+      margin-right: -30px;
+}
+
+#top-header-navigation .collapse ul li:after{
+    content: '';
+    position: absolute;
+    top: 18px;
+    right: 0;
+    display: block;
+    height: 20px;
+    width: 1px;
+    opacity: .15;
+    background: rgba(0, 0, 0, 0.7);
+    /* background: linear-gradient(to top, rgba(0, 0, 0, 0), #000000, rgba(0, 0, 0, 0)); */
+     /* background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), #000000, rgba(0, 0, 0, 0)); */
+    background: -ms-linear-gradient(top, rgba(0, 0, 0, 0), #000000, rgba(0, 0, 0, 0));
+    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0), #000000, rgba(0, 0, 0, 0));
+    background: -o-linear-gradient(top, rgba(0, 0, 0, 0), #000000, rgba(0, 0, 0, 0));
+}
+
+#top-header-navigation .collapse ul > li:before {
+  content: '';
+  position: absolute;
+  top: 18px;
+  right: -1px;
+  display: block;
+  height: 20px;
+  width: 1px;
+  opacity: .35;
+  background: rgba(255, 255, 255, 0.8);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
+  background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.01), #ffffff, rgba(255, 255, 255, 0.01));
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
+}
+
+#menuEstatic .navbar-default {
+  color: #fff;
+  background-color: #ccc6c6;
+  border-color: #aca1a2;
+}
+
+#menuEstatic .navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+#menuEstatic .navbar-default .navbar-nav>.dropdown>a .caret {
+  border-top-color: #fff;
+  border-bottom-color: #fff;
+}
+
+#menuEstatic .navbar-default .navbar-brand {
+  color: #fff;
+}
+
+.menu-large {
+  position: static !important;
+}
+
+.megamenu {
+  padding: 20px 0px;
+  width: 100%;
+}
+
+#dropdownEstatic{
+    float: left;
+    width: 33.3%;
+}
+
+#submenu {
+  margin-bottom: 0px!important;
+  width: 100%;
+  padding-top: 5px;
+}
+
+.dropdownEstatic {
+  float: left;
+  width: 33.3%;
+}
+
+#menuEstaticoFlecha{
+    margin-top: 4px;
+    background: rgba(255,255,255,0.9);
+    opacity: 1!important;
+}
+
+#menuEstaticoFlecha::before,
+#menuEstaticoFlecha::after {
+    border: none;
+    content: none;
+}

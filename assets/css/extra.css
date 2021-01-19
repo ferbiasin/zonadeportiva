@@ -1,0 +1,64 @@
+/*** 
+
+====================================================================
+				Intro Section
+====================================================================
+
+***/
+
+.intro-section{
+	position: relative;
+	padding: 130px 0 140px;
+	background-color: #edf7ff;
+}
+
+.intro-section .content-box{
+	position: relative;
+	max-width: 940px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.intro-section h2{
+	position: relative;
+	display: block;
+	font-size: 40px;
+	color: #333333;
+	line-height: 1.2em;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.intro-section h2 span{
+	font-weight: 800;
+}
+
+.intro-section h4{
+	display: block;
+	font-size: 18px;
+	line-height: 26px;
+	color: #0095DA;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.intro-section .text{
+	position: relative;
+	font-size: 14px;
+	line-height: 25px;
+	color: #777777;
+	margin-bottom: 30px;
+}
+
+.intro-section .link-box{
+	position: relative;
+	text-align: center;
+}
+
+.auto-container{
+	position:static;
+	max-width:1200px;
+	padding:0px 15px;
+	margin:0 auto;
+}
+/*** 

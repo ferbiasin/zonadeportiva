@@ -1,0 +1,1 @@
+function $("#elasticstack").length>0&&new ElastiStack(document.getElementById("elasticstack"))
